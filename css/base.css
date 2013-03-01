@@ -1,0 +1,18 @@
+/*
+ * Base CSS
+ */
+
+ html, body { font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; font-size:14px; color:#333; }
+
+ /*
+  * Font
+  */
+
+h1, h2, h3, h4, h5, h6 { margin:10px 0; color:#222; }
+
+h1 { font-size:38px; }
+h2 { font-size:30px; }
+h3 { font-size:26px; }
+h4 { font-size:20px; }
+h5 { font-size:16px; }
+h6 { font-size:14px; }
